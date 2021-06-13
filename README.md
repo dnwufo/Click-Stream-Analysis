@@ -4,5 +4,5 @@ click stream analysis using Expedia data</samp></p>
 </samp></p>
 <br>Link to Logistic Regression R code: https://github.com/dnwufo/Click-Stream-Analysis/blob/main/LogisticRegression_Expedia.R
 </samp></p>
-<br>Link to Clustering R code: https://github.com/dnwufo/Click-Stream-Analysis/blob/main/expediaclickstreamclustering.ipynb
+<br>Link to Clustering Jupyter notebook: https://github.com/dnwufo/Click-Stream-Analysis/blob/main/expediaclickstreamclustering.ipynb
 </samp></p>
